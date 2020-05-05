@@ -1,0 +1,4 @@
+stripe/env
+stripe/.env
+transferwise-statement.csv
+stripe/__pycache__
