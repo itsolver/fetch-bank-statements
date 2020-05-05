@@ -2,3 +2,5 @@ stripe/env
 stripe/.env
 transferwise-statement.csv
 stripe/__pycache__
+*.csv
+*.env
