@@ -4,3 +4,7 @@ transferwise-statement.csv
 stripe/__pycache__
 *.csv
 *.env
+env/
+token.pickle
+credentials.json
+.DS_Store
