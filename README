@@ -22,4 +22,10 @@ python3 -m venv env
 pip3 install -r requirements.txt
 ```
 
+3. Run fetch.py to fetch statements for the last quarter
+
+```
+python fetch.py --last_quarter
+```
+
 To exit venv, run: deactivate
