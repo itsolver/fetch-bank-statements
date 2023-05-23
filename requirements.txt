@@ -1,5 +1,5 @@
 pyinputplus==0.2.12
-requests==2.27.1
+requests==2.31.0
 stripe==2.64.0
 python-dotenv==0.19.2
 selenium==4.1.0
